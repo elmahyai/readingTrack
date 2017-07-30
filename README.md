@@ -16,3 +16,6 @@ Note: I add the following to the crontab file
 # m h dom mon dow command
   * * * * * source ~/Documents/pj/Readingtrack/readingProgress.sh
 
+I call the books with capital letters , below every column the number of pages I finished
+
+![Alt text](https://github.com/ahmedelmahy/readingTrack/blob/master/2017-07-30-032436_1280x800_scrot.png?raw=true "My desktop, My progress in reading increases the red")
